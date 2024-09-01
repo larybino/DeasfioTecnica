@@ -7,6 +7,6 @@ public class SomaIndice {
             K = K + 1;
         }
         
-        System.out.println("SOMA: " + SOMA);  
+        System.out.println("SOMA: " + SOMA);  //78
     }
 }
